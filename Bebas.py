@@ -105,7 +105,7 @@ window.title("Snake game")
 window.resizable(False, False)
 
 score = 0
-direction = 'down
+direction = 'down'
 
 
 label = Label(window, text="Score.{}".format(score), font = ('Consolas'))
