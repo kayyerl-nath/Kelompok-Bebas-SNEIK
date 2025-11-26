@@ -97,7 +97,7 @@ def change_direction(new_direction):
         if direction != 'up':
             direction = new_direction
 
-def check_collisiions(snake):
+def check_collisions(snake):
 
     x, y = snake.coordinates[0]
 
