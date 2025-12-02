@@ -35,5 +35,23 @@ Setelah dijalankan, ikuti instruksi yang muncul pada terminal untuk memainkan ga
 
 ## Penjelasan Singkat
 
+1. Program mulai dengan membuat ular, makanan, skor awal, dan arena permainan.
+
+
+2. Pada setiap frame: pemain memberikan input arah.
+
+
+3. Ular bergerak dan posisinya diperbarui.
+
+
+4. Program memeriksa apakah ular:
+
+memakan makanan → skor + panjang bertambah
+
+menabrak dinding atau dirinya sendiri → game over
+
+
+5. Loop berlangsung hingga kondisi game over terpenuhi.
+
 ## Daftar Anggota
 
