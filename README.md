@@ -1,2 +1,2 @@
-# Kelompok-Bebas-New
-Game Snake Simple Tugas Pengenalan Pemrograman Kelompok Bebas
+# SNEIK
+SNEIK Adalah Game Snake Simple Tugas Pengenalan Pemrograman Yang Dibuat Oleh Kelompok Bebas
