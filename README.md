@@ -2,6 +2,8 @@
 SNEIK Adalah Game Snake Simple Tugas Pengenalan Pemrograman Yang Dibuat Oleh Kelompok Bebas
 
 ## Pendahuluan
+SNEIK adalah permainan sederhana berbasis Python yang mengadaptasi game klasik Snake. Program ini dikembangkan oleh Kelompok Bebas sebagai proyek pembelajaran logika pemrograman dan implementasi alur game (game loop).
+Melalui game ini, pemain mengendalikan seekor “ular” yang bergerak di dalam arena, memakan makanan, bertambah panjang, dan harus menghindari tabrakan. SNEIK dirancang sederhana agar mudah dipahami, diubah, dan dikembangkan.
 
 ## Fitur Utama
 
