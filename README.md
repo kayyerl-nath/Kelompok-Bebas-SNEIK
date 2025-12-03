@@ -37,6 +37,7 @@ python nama_file.py
 Setelah dijalankan, ikuti instruksi yang muncul pada terminal untuk dapat memainkan game.
 
 ## 🧩 Flowchart Alur Program
+![image alt](https://github.com/kayyerl-nath/Kelompok-Bebas-SNEIK/blob/c6569b398bbe18665b73dadee38bcec2754caf57/Flowchart%20SNAKE.drawio.png)
 
 ## 📄 Penjelasan Singkat
 
