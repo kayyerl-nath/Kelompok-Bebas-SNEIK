@@ -56,7 +56,7 @@ menabrak dinding atau dirinya sendiri → game over
 ## 👥 Daftar Anggota
 | Nama Kontributor         | Persentase Kontribusi | Jumlah Kontribusi | Profil GitHub                                              | Avatar                                                                  |
 |--------------------------|-----------------------|-------------------|------------------------------------------------------------|-------------------------------------------------------------------------|
-| Chliven Richie Wijaya    | - %                   | 24                | [CLVVSS25](https://github.com/CLVVSS25)                    |![CLVVSS25](https://avatars.githubusercontent.com/u/246071975?v=4)       |
-| Sri Anggun Ulfa Fitriana | - %                   | 4                 | [anggunfitriana](https://github.com/anggunfitriana)        | ![anggunfitriana](https://avatars.githubusercontent.com/u/245550050?v=4)|
-| Jovee Ranuntu            | - %                   | 2                 | [Joooveeee](https://github.com/joveeranuntu)               | ![Joooveeee](https://avatars.githubusercontent.com/u/245634896?v=4)     |
-| Jonathan Londah          | - %                   | 3                 | [kayyerl-nath](https://github.com/kayyerl-nath)            | ![kayyerl-nath](https://avatars.githubusercontent.com/u/225867520?v=4)  |
+| Chliven Richie Wijaya    | 8 %                   | 2                | [CLVVSS25](https://github.com/CLVVSS25)                    |![CLVVSS25](https://avatars.githubusercontent.com/u/246071975?v=4)       |
+| Sri Anggun Ulfa Fitriana | 20 %                   | 4                 | [anggunfitriana](https://github.com/anggunfitriana)        | ![anggunfitriana](https://avatars.githubusercontent.com/u/245550050?v=4)|
+| Jovee Ranuntu            | 44 %                   | 5                 | [Joooveeee](https://github.com/joveeranuntu)               | ![Joooveeee](https://avatars.githubusercontent.com/u/245634896?v=4)     |
+| Jonathan Londah          | 28 %                   | 9                 | [kayyerl-nath](https://github.com/kayyerl-nath)            | ![kayyerl-nath](https://avatars.githubusercontent.com/u/225867520?v=4)  |
